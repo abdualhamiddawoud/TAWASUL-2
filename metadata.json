@@ -1,0 +1,6 @@
+{
+  "name": "TAWASUL",
+  "description": "Android application for TAWASUL social network",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
